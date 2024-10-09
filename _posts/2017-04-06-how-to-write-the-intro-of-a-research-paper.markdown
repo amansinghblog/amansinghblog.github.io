@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Write the Introduction of a Research Paper
+title: How to write the Introduction of a research paper
 date: 2024-10-04 13:32:20 +0300
 description: First blog # Add post description (optional)
 img: how-to-write-intro-of-a-research-paper.jpeg # Add image post (optional)
