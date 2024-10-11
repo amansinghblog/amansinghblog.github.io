@@ -2,7 +2,7 @@
 
 Welcome to my blog! I have hosted this site on GitHub to share insights from my research journey, personal experiences, and various topics of interest. Feel free to explore and fork this repository!
 
-You can see the blog [here](amansinghblog.github.io)
+You can see the blog [here](https://amansinghblog.github.io/)
 
 ## 📌 Todo List
 - [ ] Add links to various social media icons on the website
