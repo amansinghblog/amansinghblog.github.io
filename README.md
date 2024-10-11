@@ -1,31 +1,17 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# ✍ My Blog
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+Welcome to my blog! I have hosted this site on GitHub to share insights from my research journey, personal experiences, and various topics of interest. Feel free to explore and fork this repository!
 
-## Demo
+You can see the blog [here](amansinghblog.github.io)
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+## 📌 Todo List
+- [ ] Add links to various social media icons on the website
+- [ ] Write a blog post on "How to Read a Research Paper"
+- [ ] Write a blog post on "How to Collect Research Papers"
+- [ ] Write a blog post on "How to Manage Research Papers"
 
-The main page would look like this:
+## 📚 Resources
+1. [Emoji Search App](https://www.emojisearch.app/)
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
-
-## License
-
-GNU General Public License v3.0
+## 🙏 Credits
+1. GitHub repository template I used: [GitHub Link](https://github.com/artemsheludko/flexible-jekyll) / [Website Demo](http://artemsheludko.com/flexible-jekyll/)
