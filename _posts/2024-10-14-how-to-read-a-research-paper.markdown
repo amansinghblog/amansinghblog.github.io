@@ -3,7 +3,7 @@ layout: post
 title: How to Read a Research Paper - A PhD Researcher's Guide
 date: 2024-10-14 13:32:20 +0300
 description: 2nd blog # Add post description (optional)
-img: how-to-write-intro-of-a-research-paper.jpeg # Add image post (optional)
+img: Research-paper-with-sticky-notes.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [research, research-paper]
 ---
