@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Read a Research Paper - A PhD Researcher's Guide
+title: How to Read a Research Paper
 date: 2024-10-14 13:32:20 +0300
 description: 2nd blog # Add post description (optional)
 img: Research-paper-with-sticky-notes.jpg # Add image post (optional)
