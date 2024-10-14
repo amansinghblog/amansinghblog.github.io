@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Read a Research Paper
-date: 2024-14-10 13:32:20 +0300
+title: How to Read a Research Paper - A PhD Researcher's Guide
+date: 2024-10-14 01:00:20 +0300
 description: 2nd blog # Add post description (optional)
 img: Research-paper-with-sticky-notes.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
@@ -20,9 +20,9 @@ read research papers more effectively.
 # The Phases of Reading a Research Paper
 
 ## Phase 0: Initial Assessment
-In this phase, take a moment to read the title and keywords associated with the paper. This quick assessment helps you decide whether the 
+In this phase, take a moment to read the **title** and **keywords** associated with the paper. This quick assessment helps you decide whether the 
 paper is relevant to your interests or research area. If the title and keywords pique your curiosity, proceed to read further; if not, feel 
-free to skip it. This step typically takes just 1-2 minutes but is crucial for filtering out irrelevant papers.
+free to skip it. This step typically takes just **1-2 minutes** but is crucial for filtering out irrelevant papers.
 
 ## Phase 1: Abstract and Conclusion
 Once you've decided to read the paper, move on to the abstract and conclusion sections. These parts provide a concise overview of the paper's motivation, main contributions, and results.
@@ -42,19 +42,17 @@ In this phase, read the introduction thoroughly while skimming through the metho
 If certain mathematical concepts or algorithms are clear to you at this stage, feel free to engage with them; otherwise, save them for later.
 
 ## Phase 3: Detailed Examination
-Now it's time to dive deeper into the mathematical details, algorithms, and proofs presented in the paper. This phase may also involve running any available code associated with the paper if applicabl.
-This detailed examination usually concludes your reading process for most papers. However, if you find yourself particularly intrigued or challenged by certain aspects, you may wish to continue your exploration.
+Now it's time to dive deeper into the **mathematical details, algorithms, and proofs** presented in the paper. This phase may also involve running any available code associated with the paper if applicable. This detailed examination usually concludes your reading process for most papers. However, if you find yourself particularly intrigued or challenged by certain aspects, you may wish to continue your exploration.
 
 ## Phase 4: Re-implementation
-In this final phase, consider re-implementing algorithms or working through proofs independently without referring back to the paper. 
-This exercise can reveal gaps in your understanding or clarify concepts that initially seemed complex.
-While not all papers will require this level of engagement, it’s especially beneficial for those closely aligned with your own research. 
-For instance, if there’s a proof that could be adapted for your work or an algorithm you aim to improve upon, this phase becomes invaluable.
+In this final phase, consider **re-implementing algorithms** or **working through proofs** independently without referring back to the paper. This exercise can reveal gaps in your understanding or clarify concepts that initially seemed complex.
+
+While not all papers will require this level of engagement, it’s especially beneficial for those closely aligned with your own research. For instance, if there’s a proof that could be adapted for your work or an algorithm you aim to improve upon, this phase becomes invaluable.
 
 ## Practical Tips for Effective Reading
 1. **Use Phases 0 and 1 Wisely**: These initial phases help you determine if a paper merits your time.
 2. **Expect Most Papers to End by Phase 2**: In my experience, around 80-90% of papers can be comprehensively understood by this point.
-3. **Do not spend too much time in related works**: You have to first complete reading this paper not all the papers this paper refers to.
+3. **Do not spend too much time in related works**: Complete reading this paper first then the other papers it refers to.
 4. **Reserve Phases 3 and 4 for Relevant Papers**: Focus on these phases when dealing with papers that are particularly pertinent to your current research.
 5. **Space Out Your Reading**: Don’t feel pressured to complete all phases in one sitting. Consider breaking them up over several days for better retention.
 
@@ -68,4 +66,4 @@ For further reading on effective research practices, consider checking out these
   * How to Read a Paper by *S. Keshav*: [PDF](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
   * How to read a paper: [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
 
-Happy reading!
+### Happy reading!
